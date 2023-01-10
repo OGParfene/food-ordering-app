@@ -5,6 +5,7 @@ you can pay and get the food delivered to your house.
 This application is a practice app that I have done following an onlline course of React made by Academind. <br>
 <br>
 We can see that we have managed different form validation for the input from the cart component and we have used different react hooks.
+Also the data is gotten from an online database, in out case is Firebase and is from where we fetch the data.
 
 <br>
 In order to deploy the application: <br>
